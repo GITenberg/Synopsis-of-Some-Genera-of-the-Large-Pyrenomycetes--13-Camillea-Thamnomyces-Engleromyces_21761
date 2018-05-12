@@ -1,0 +1,29 @@
+_repo: Synopsis-of-Some-Genera-of-the-Large-Pyrenomycetes--13-Camillea-Thamnomyces-Engleromyces_21761
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Lloyd, C. G. (Curtis Gates)
+    alias: Lloyd, Curtis Gates
+    birthdate: 1859
+    deathdate: 1926
+    gutenberg_agent_id: '24872'
+    url: http://www.gutenberg.org/2009/agents/24872
+description: ''
+gutenberg_bookshelf: Biology
+gutenberg_issued: '2007-06-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '21761'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'QK'
+- !lcsh 'Pyrenomycetes'
+title: "Synopsis of Some Genera of the Large Pyrenomycetes\r\nCamillea, Thamnomyces,\
+  \ Engleromyces"
+url: http://www.gutenberg.org/ebooks/21761
