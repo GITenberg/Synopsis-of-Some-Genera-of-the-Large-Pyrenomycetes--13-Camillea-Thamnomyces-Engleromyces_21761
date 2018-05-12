@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '24872'
     url: http://www.gutenberg.org/2009/agents/24872
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/21761#Synopsis-of-Some-Genera-of-the-Large-Pyrenomycetes--13-Camillea-Thamnomyces-Engleromyces
 gutenberg_bookshelf: Biology
 gutenberg_issued: '2007-06-07'
 gutenberg_type: Text
